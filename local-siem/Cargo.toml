@@ -1,0 +1,12 @@
+[package]
+name = "local-siem"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+u-siem = "0.0"
+u-siem-kernel = "0.0"
+usiem-basic-parser = "0.0"
+u-siem-sqlite-store = "0.0"
